@@ -1,0 +1,4 @@
+#An example of how routing works and how to return data
+#@app.route('/', methods=['GET'])
+#def get():
+#    return jsonify({ 'msg': 'Hello World' })

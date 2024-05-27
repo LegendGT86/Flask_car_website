@@ -1,0 +1,14 @@
+{
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "RESTFUL",
+            "database": "RESTFUL",
+            "username": "postgres"
+        }
+    ]
+}
